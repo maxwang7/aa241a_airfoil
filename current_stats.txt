@@ -1,0 +1,6 @@
+This file contains parameters of the current foil in the repo.
+
+CL: 0.507
+CM: -0.2454
+Cp_min: -0.6874
+Cp_crest: -0.63401 (estimated)
