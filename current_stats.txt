@@ -2,7 +2,7 @@ This file contains parameters of the current foil in the repo.
 
 CL: 0.507
 CM: -0.1980
-Cp_min: -0.6890
-Cp_crest: -0.68 (estimated)
-Max thickness = 0.090597 @ x = 0.307
-Max camber = 0.19811 @ x = 0.720
+Cp_min: -0.7743
+Cp_crest: -0.54 (estimated)
+Max thickness = 0.083 @ x = 0.307
+Max camber = 0.19779 @ x = 0.741
