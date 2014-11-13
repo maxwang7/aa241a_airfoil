@@ -1,1 +1,2 @@
 /Applications/Xfoil.app/Contents/Resources/xfoil
+/Applications/SU2_EDU.app/Contents/MacOS/script.sh ;
